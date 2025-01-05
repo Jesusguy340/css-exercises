@@ -4,9 +4,9 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: 1000px;
   background: #fff;
-  margin: 16px auto;
+  margin: 30px auto;
 }
 
 .title {
@@ -15,13 +15,22 @@ body {
 
 .content {
   background: #e3f4ff;
+  width: 1000px;
+  margin: 16px;
+  font-size: 30px;
+  padding: 15px;
 }
 
 .button-container {
   background: #e3f4ff;
+  font-size: 30px;
+  text-align: center;
+  padding: 15px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  font-size: 30px;
+  padding: 20px;
 }
